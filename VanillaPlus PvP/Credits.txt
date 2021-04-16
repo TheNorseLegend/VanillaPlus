@@ -1,0 +1,11 @@
+Credits:
+
+1.14 template that made this all possible by Epicbills on PMC: https://www.planetminecraft.com/texture-pack/updated-vanilla-minecraft-textures-for-1-8-9/
+
+Sweet dragon sky by Yuruze on PMC: https://www.planetminecraft.com/texture-pack/blue-dragon-sky-overlay-custom-sky-overlay/
+
+Outlined wool by Chromus on Vanilla Extract: https://www.vanilla-extract.tk/
+
+Connected 1.14 glass by AnimeChips on PMC: https://www.planetminecraft.com/texture-pack/optifine-connected-glass-vanilla-style/
+
+Lower fire by 7entey7 on PMC: https://www.planetminecraft.com/texture-pack/fires-resized/
